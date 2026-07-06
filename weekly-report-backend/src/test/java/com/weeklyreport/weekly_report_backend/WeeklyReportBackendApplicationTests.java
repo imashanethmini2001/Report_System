@@ -1,4 +1,4 @@
-package com.example.weekly_report_backend;
+package com.weeklyreport.weekly_report_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
