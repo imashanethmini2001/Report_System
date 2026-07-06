@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.weeklyreport.weekly_report_backend.config.JwtProperties",
+      "sourceType": "com.weeklyreport.weekly_report_backend.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.weeklyreport.weekly_report_backend.config.JwtProperties"
+    },
+    {
+      "name": "jwt.expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.weeklyreport.weekly_report_backend.config.JwtProperties"
+    }
+  ]
+}
